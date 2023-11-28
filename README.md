@@ -1,0 +1,1 @@
+This is a simple Check list app used to keep up to date with task with the power to edit, delete and create task all at the power of your finger tips. Enjoy the React.js base Task check list and look out for many more to come.
